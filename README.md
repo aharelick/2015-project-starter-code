@@ -1,3 +1,4 @@
-# 2015-project-starter-code
-University of Pennsylvania
-Alex Harelick
+2015-project-starter-code
+=========================
+University of Pennsylvania, Alex Harelick
+
